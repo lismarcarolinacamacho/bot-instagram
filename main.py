@@ -1,5 +1,5 @@
 #instalar instabot miniconda: pip install instabot
-
+# para seguir los seguidores de lismarcarolina_
 from instabot import Bot
 
 # ruta de instalacion C:\Users\miusuario\miniconda3\Lib\site-packages\instabot\bot
