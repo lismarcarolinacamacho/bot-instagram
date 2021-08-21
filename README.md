@@ -1,2 +1,2 @@
-# bot
-Bot con miniconda
+# bots
+Bots con miniconda
