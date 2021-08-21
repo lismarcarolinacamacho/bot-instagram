@@ -1,4 +1,5 @@
 
+#bot para hacer una busqueda por google
 #ruta: C:\Users\camac\miniconda3\Lib\site-packages\webdriver_manager
 import time
 from selenium import webdriver
