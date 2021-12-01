@@ -1,3 +1,3 @@
 # bots
-Bots con miniconda
+Bots de instagram con miniconda
 selenium, instabot, scrapy
